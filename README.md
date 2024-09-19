@@ -17,6 +17,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
 
-![Asifa Muhammad Qasim GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifaMuhhammadQasim&show_icons=true&theme=dark)
+![Asifa Muhammad Qasim GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifaMuhammadQasim&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaMuhammadQasim&theme=dark)
