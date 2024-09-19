@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asifa Muhhammad Qasim</h1>
+<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim</h1>
 
 - 🔭 I’m currently working on Typescript
 - 🌱 I’m currently learning Web 3.0,AI & Metaverse 
