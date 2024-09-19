@@ -19,4 +19,4 @@
 
 ![Asifa Muhammad Qasim GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifaMuhhammadQasim&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraRaza&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaMuhammadQasim&theme=dark)
