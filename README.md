@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif" width="280" alt="solar system animation" />
+  <img src="[https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif](https://solarsystem.nasa.gov/planets/overview/)" width="280" alt="solar system animation" />
 </p>
 
 <h3 align="center">Web Developer | FastAPI & AI Enthusiast | Lifelong Learner</h3>
