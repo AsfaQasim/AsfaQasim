@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim</h1>
+<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim frontend developer.</h1>
 <p align="center">
   <img src="(https://solarsystem.nasa.gov/planets/overview/)" width="280" alt="solar system animation" />
 </p>
