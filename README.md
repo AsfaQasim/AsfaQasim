@@ -66,10 +66,5 @@
 
 <p align="center"> Thanks for visiting my profile! Let’s build something amazing together </p>
 
----
 
-### Bonus: Interactive Solar System Link (optional)
-
-Check out the real interactive solar system here:  
-[🌌 NASA Solar System Exploration](https://solarsystem.nasa.gov/planets/overview/)
 
