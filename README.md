@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim frontend developer.</h1>
 <div align="center">
-<img src="https://cdn.pixabay.com/animation/2023/04/27/05/49/05-49-58-802_512.gif" align="center" height="288" width="512" autoplay/>
+<img src="[https://cdn.dribbble.com/users/204955/screenshots/3326337/solar-system.gif]" align="center" height="288" width="512" autoplay/>
 </div>  
 
 
