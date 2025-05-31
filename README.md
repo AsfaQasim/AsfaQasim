@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim frontend developer.</h1>
-<div align="center">
-  <img src="https://i.gifer.com/origin/32/324a0a25b87aa76a9d3faec31f7e4260.gif" alt="Solar System GIF" height="288" width="512" />
-</div>
- 
+<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim — Frontend Developer</h1>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ae/f4/48/aef44823d7c38cf6c17434598644c4c7.gif" alt="Coding Animation" height="288" width="512" />
+</div>
 
 <h3 align="center">Web Developer | FastAPI & AI Enthusiast | Lifelong Learner</h3>
 
@@ -66,7 +65,11 @@
 
 ---
 
-<p align="center"> Thanks for visiting my profile! Let’s build something amazing together </p>
+<p align="center">Thanks for visiting my profile! Let’s build something amazing together 🚀</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AsfaQasim.AsfaQasim" alt="Visitors"/>
+</p>
 
 
 
