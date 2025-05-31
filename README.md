@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim frontend developer.</h1>
 <p align="center">
-  <img src="(https://solarsystem.nasa.gov/planets/overview/)" width="280" alt="solar system animation" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Solar_System_orbits_2021.gif" width="280" alt="realistic solar system animation" />
 </p>
 
 <h3 align="center">Web Developer | FastAPI & AI Enthusiast | Lifelong Learner</h3>
@@ -65,4 +65,11 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! Let’s build something amazing together ✨</p>
+
+---
+
+### Bonus: Interactive Solar System Link (optional)
+
+Check out the real interactive solar system here:  
+[🌌 NASA Solar System Exploration](https://solarsystem.nasa.gov/planets/overview/)
 
