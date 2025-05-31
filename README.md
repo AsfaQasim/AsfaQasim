@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim frontend developer.</h1>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Solar_System_orbits_2021.gif" height="288" width="512" alt="Realistic Solar System Animation" />
-</p>
+<div align="center">
+<img src="https://cdn.pixabay.com/animation/2023/04/27/05/49/05-49-58-802_512.gif" align="center" height="288" width="512" autoplay/>
+</div>  
+
 
 <h3 align="center">Web Developer | FastAPI & AI Enthusiast | Lifelong Learner</h3>
 
