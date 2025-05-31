@@ -64,7 +64,7 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Let’s build something amazing together ✨</p>
+<p align="center"> Thanks for visiting my profile! Let’s build something amazing together </p>
 
 ---
 
