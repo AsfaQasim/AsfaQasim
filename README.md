@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim — Frontend Developer</h1>
 <div align="center">
-  <img src="https://i.imgur.com/your_api_chip.gif" alt="API Demo" height="288" width="512" />
+  <img src=	"https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="API Demo" height="288" width="512" />
 </div>
 
 <h3 align="center">Web Developer | FastAPI & AI Enthusiast | Lifelong Learner</h3>
