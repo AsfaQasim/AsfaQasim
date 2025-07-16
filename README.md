@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim</h1>
-<h3 align="center">Frontend Developer | Full-Stack Explorer | AI & Agentic SDK Enthusiast</h3>
+
 <h1 align="center">Hi 👋, I'm Asifa Muhammad Qasim</h1>
 <h3 align="center">Frontend Developer | Full-Stack Explorer | AI & Agentic SDK Enthusiast</h3>
 
