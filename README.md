@@ -9,17 +9,17 @@
 
 ### 🚀 About Me
 
-- 👩‍💻 Frontend-focused Full Stack Developer with hands-on experience in **React**, **Next.js**, **Tailwind**, and **FastAPI**
-- 🌍 Exploring the world of **Web 3.0**, **Metaverse**, and **LLM-powered Agentic Apps**
-- 🧠 Passionate about building **AI Agents** using tools like **LangChain**, **Chainlit**, and the **Agentic AI SDK**
-- 💡 Constantly pushing boundaries to merge great UI with powerful backend logic
-- 📫 Reach out at: **asfaqasim144@gmail.com**
+- 👩‍💻 Frontend-focused Full Stack Developer skilled in **React**, **Next.js**, **Tailwind CSS**, and **FastAPI**
+- 🌍 Exploring the future of the web with **Web 3.0**, **LLMs**, **Metaverse**, and **Agentic AI SDK**
+- 🧠 Building intelligent UIs using tools like **LangChain**, **Chainlit**, and **FastAPI**
+- 🛠️ Problem solver with a passion for clean code, functional UIs, and scalable backends
+- 📫 Let's connect: **asfaqasim144@gmail.com**
 
 ---
 
-### 🧠 Agentic AI Toolkit
+### 🧠 Agentic AI & Backend Toolkit
 
-These are the core tools I'm exploring for intelligent, dynamic, and autonomous apps:
+These are the tools I’m using to build AI-powered, autonomous experiences:
 
 ![Agentic AI SDK](https://img.shields.io/badge/Agentic%20AI%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge)
@@ -53,22 +53,27 @@ These are the core tools I'm exploring for intelligent, dynamic, and autonomous 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsfaQasim&show_icons=true&theme=radical&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfaQasim&layout=compact&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AsfaQasim&show_icons=true&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AsfaQasim&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfaQasim&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-contribution-graph.ezra.sh/api?username=AsfaQasim&bg_color=1a1b27&color=58a6ff&line=2d333b&point=58a6ff&area=true&hide_border=true" width="45%" />
 </div>
 
 ---
 
 ### ✨ What Drives Me
 
-- 🔍 Obsessive curiosity for tech and intelligent systems  
-- 🧩 Problem-solving through creative UI and robust logic  
-- 🤝 Collaborative spirit and love for open source  
-- 💭 Big vision: Smart, scalable, autonomous web apps
+- 🔍 Curiosity for systems — from smart interfaces to AI agent workflows  
+- 🧩 Solving real problems with practical, scalable code  
+- 💡 Merging design and logic to build intuitive, powerful apps  
+- 📚 Continuous learning and sharing knowledge with the community
 
 ---
 
-<p align="center">Thanks for stopping by! Let’s connect and create something powerful 🚀</p>
+<p align="center">Thanks for visiting my profile! Let’s build something amazing together 🚀</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AsfaQasim.AsfaQasim" alt="Visitor Badge"/>
